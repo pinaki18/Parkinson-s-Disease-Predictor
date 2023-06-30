@@ -15,8 +15,7 @@ numpy library (version 1.19.5 or later)
 pandas library (version 1.2.4 or later)
 You can install the necessary Python libraries using pip:
 
-pip install scikit-learn numpy pandas
+"pip install scikit-learn numpy pandas"
 
 
-
-## If you have any questions or suggestions, please feel free to contact pinaki.tyagi@gmail.com
+If you have any questions or suggestions, please feel free to contact pinaki.tyagi@gmail.com
